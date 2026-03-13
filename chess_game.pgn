@@ -1,0 +1,12 @@
+[Event "Chess Game"]
+[Site "Local Game"]
+[Date "2025.05.26"]
+[White "Player"]
+[Black "AI"]
+[CurrentTurn "w"]
+[Result "*"]
+
+1. xe4 {e2e4} xa6 {b8a6} 
+2. xd3 {d2d3} xb8 {a8b8} 
+
+*
