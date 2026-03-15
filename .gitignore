@@ -1,0 +1,15 @@
+# Build artifacts
+*.o
+chess
+chess_game
+chess_ai_test
+
+# OS-specific
+.DS_Store
+
+# Backups
+*.backup
+
+# Game saves
+*.pgn
+*.txt
